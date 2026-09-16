@@ -1,0 +1,6 @@
+tunnel: c0217b93-01e0-4e47-baa4-cf549a667c85
+credentials-file: C:\Users\computer world\.cloudflared\c0217b93-01e0-4e47-baa4-cf549a667c85.json
+ingress:
+  - hostname: daibi-hillsmedicalcentre.online
+    service: http://localhost:8080
+  - service: http_status:404

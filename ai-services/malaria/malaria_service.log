@@ -1,0 +1,264 @@
+============================================================ 
+Session started 24/07/2026  3:47:15.83 
+============================================================ 
+============================================================ 
+Session started 24/07/2026  3:48:10.23 
+============================================================ 
+24/07/2026  3:48:11.13 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:48:11.18 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:48:22.15 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:48:22.21 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  3:50:20.16 
+============================================================ 
+24/07/2026  3:50:20.66 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:50:20.71 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:50:27.16 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:50:27.19 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:50:32.16 - Starting (attempt 2) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:50:32.21 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:50:37.19 - Starting (attempt 3) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:50:37.24 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:50:42.21 - Starting (attempt 4) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:50:42.24 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:50:47.16 - Starting (attempt 5) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:50:47.22 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  3:51:45.98 
+============================================================ 
+24/07/2026  3:51:46.53 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:51:46.58 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:51:53.14 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:51:53.17 - Service stopped/crashed (exit code 9009) 
+24/07/2026  3:52:00.50 - Starting (attempt 2) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  3:52:00.55 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  4:03:49.56 
+============================================================ 
+24/07/2026  4:03:50.59 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:03:50.62 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:03:57.21 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:03:57.26 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:02.51 - Starting (attempt 2) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:02.56 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:08.17 - Starting (attempt 3) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:08.22 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:13.20 - Starting (attempt 4) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:13.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:19.15 - Starting (attempt 5) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:19.28 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:27.15 - Starting (attempt 6) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:27.18 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:33.15 - Starting (attempt 7) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:33.20 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:40.13 - Starting (attempt 8) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:40.17 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:04:45.14 - Starting (attempt 9) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:04:45.17 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  4:08:05.25 
+============================================================ 
+24/07/2026  4:11:15.46 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:15.82 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:23.24 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:23.28 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:28.14 - Starting (attempt 2) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:28.17 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:33.15 - Starting (attempt 3) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:33.19 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:38.21 - Starting (attempt 4) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:38.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:43.15 - Starting (attempt 5) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:43.18 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:48.22 - Starting (attempt 6) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:48.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:53.23 - Starting (attempt 7) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:53.26 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:11:58.21 - Starting (attempt 8) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:11:58.24 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:12:03.19 - Starting (attempt 9) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:12:03.25 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  4:14:08.37 
+============================================================ 
+24/07/2026  4:15:08.39 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:15:08.48 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:15:17.17 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:15:17.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:15:22.15 - Starting (attempt 2) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:15:22.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:15:27.20 - Starting (attempt 3) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:15:27.25 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  4:16:04.58 
+============================================================ 
+24/07/2026  4:16:06.24 - Starting (attempt 0) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:06.30 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:12.19 - Starting (attempt 1) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:12.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:17.14 - Starting (attempt 2) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:17.22 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:22.21 - Starting (attempt 3) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:22.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:27.21 - Starting (attempt 4) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:27.25 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:34.29 - Starting (attempt 5) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:34.35 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:42.22 - Starting (attempt 6) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:42.27 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:47.37 - Starting (attempt 7) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:47.47 - Service stopped/crashed (exit code 9009) 
+24/07/2026  4:16:57.16 - Starting (attempt 8) 
+'uvicorn' is not recognized as an internal or external command,
+operable program or batch file.
+24/07/2026  4:16:57.23 - Service stopped/crashed (exit code 9009) 
+============================================================ 
+Session started 24/07/2026  4:31:16.77 
+============================================================ 
+============================================================ 
+Session started 24/07/2026  4:35:50.03 
+============================================================ 
+============================================================ 
+Session started 24/07/2026  4:53:21.48 
+============================================================ 
+24/07/2026  4:53:22.14 - Starting (attempt 0) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  4:53:24.50 - Service stopped/crashed (exit code 1) 
+24/07/2026  4:53:30.13 - Starting (attempt 1) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  4:53:31.00 - Service stopped/crashed (exit code 1) 
+============================================================ 
+Session started 24/07/2026  5:00:06.14 
+============================================================ 
+24/07/2026  5:00:07.03 - Starting (attempt 0) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:12.23 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:00:19.14 - Starting (attempt 1) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:23.70 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:00:32.12 - Starting (attempt 2) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:33.09 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:00:38.20 - Starting (attempt 3) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:39.33 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:00:44.12 - Starting (attempt 4) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:45.20 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:00:50.14 - Starting (attempt 5) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:51.66 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:00:57.22 - Starting (attempt 6) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:00:59.81 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:01:08.25 - Starting (attempt 7) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:01:11.75 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:01:18.19 - Starting (attempt 8) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:01:21.50 - Service stopped/crashed (exit code 1) 
+24/07/2026  5:01:28.28 - Starting (attempt 9) 
+ERROR:    Error loading ASGI app. Could not import module "app".
+24/07/2026  5:01:32.35 - Service stopped/crashed (exit code 1) 
+============================================================ 
+Session started 24/07/2026  5:11:46.47 
+============================================================ 
+24/07/2026  5:11:47.13 - Starting (attempt 0) 
+INFO:     Started server process [9592]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8090 (Press CTRL+C to quit)
+============================================================ 
+Session started 24/07/2026  5:15:38.77 
+============================================================ 
+24/07/2026  5:15:39.63 - Starting (attempt 0) 
+INFO:     Started server process [6996]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8090 (Press CTRL+C to quit)

@@ -1,0 +1,26 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+.env
+.env.local
+*.log
+
+# Virtualenv
+medicore_env/
+venv/
+env/
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

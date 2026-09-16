@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-",
+      "appliesTo": "medicore_backendandfrontend_updated/backend/medicore/.env",
+      "type": "launch"
+    }
+  ]
+}
