@@ -44,9 +44,11 @@ export default defineConfig({
     ],
     server: {
         host: true,
-        allowedHosts: ['daibi-hillsmedicalcentre.online'],
+        allowedHosts: ['daibi-hillsmedicalcentre.online', 'tangerine-heliotrope-189b3e.netlify.app',],
         proxy: {
-            '/api': 'http://localhost:8080',
-        },
+            '/api': {
+                target: 'http://127.0.0.1:8000',
+                changeOrigin: true,
+    },
     },
 })
